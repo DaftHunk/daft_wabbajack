@@ -1,0 +1,37 @@
+[
+    {
+        "$type": "ModListMetadata, Wabbajack.Lib",
+        "title": "[1.2.12] Banner Kings Expanded",
+        "description": "Best thing since sliced bread",
+        "author": "Daft Hunk",
+        "maintainers": [
+            "github/DaftHunk"
+        ],
+        "game": "skyrimspecialedition",
+        "tags": [
+            "testing",
+            "<any tags you want in the UI, each in its own string"
+        ],
+        "nsfw": false,
+        "image_contains_title": false,
+        "force_down": false,
+        "links": {
+            "$type": "Links, Wabbajack.Lib",
+            "image": "https://i.imgur.com/CZvDQ5R.png",
+            "readme": "<link to your readme for your modlist>",
+            "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+            "machineURL": "Banner_Kings_Expanded",
+            "discordURL": "https://discord.com/channels/945992285873659945/1351906480248586362"
+        },
+        "download_metadata": {
+            "$type": "DownloadMetadata, Wabbajack.Lib",
+            "Hash": "uL6BhzEOGgA=",
+            "Size": 17674721,
+            "NumberOfArchives": 112,
+            "SizeOfArchives": 25579160926,
+            "NumberOfInstalledFiles": 11952,
+            "SizeOfInstalledFiles": 46760086345
+        },
+        "version": "1.0"
+    }
+]
