@@ -13,23 +13,23 @@
         ],
         "nsfw": false,
         "image_contains_title": false,
-        "force_down": true,
+        "force_down": false,
         "links": {
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/DaftHunk/daft_wabbajack/main/Banner Kings Expanded Logo.png",
             "readme": "https://github.com/DaftHunk/daft_wabbajack/wiki/%5BFR%E2%80%90EN%5D-Banner-Kings-Expanded",
-            "download": "https://authored-files.wabbajack.org/[FR-EN] Banner Kings Expanded.wabbajack_3e145842-b8eb-4dea-aff1-c5abedb61427",
+            "download": "https://authored-files.wabbajack.org/[FR-EN] Banner Kings Expanded.wabbajack_d71e2bdb-ab3d-4882-82be-cc5e7610a5df",
             "machineURL": "Banner_Kings_Expanded",
             "discordURL": "https://discord.gg/GMj9rRtuMp"
         },
         "download_metadata": {
             "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "uL6BhzEOGgA=",
-            "Size": 17674721,
-            "NumberOfArchives": 112,
-            "SizeOfArchives": 25579160926,
-            "NumberOfInstalledFiles": 11952,
-            "SizeOfInstalledFiles": 46760086345
+            "Hash": "8wnuGcWsynI=",
+            "Size": 6050970,
+            "NumberOfArchives": 113,
+            "SizeOfArchives": 25590786976,
+            "NumberOfInstalledFiles": 11943,
+            "SizeOfInstalledFiles": 46758818481
         },
         "version": "1.0"
     }
