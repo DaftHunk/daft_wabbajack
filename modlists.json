@@ -2,7 +2,10 @@
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
         "title": "[FR-EN] Banner Kings Expanded",
-        "description": "Modlist for Bannerlords 1.2.12 only. The goal of this modlist is to improve the roleplay part of the game and strengthen player immersion and feeling of being part of the world. /!\\ See the readme for all info : https://github.com/DaftHunk/daft_wabbajack/wiki/%5BFR%E2%80%90EN%5D-Banner-Kings-Expanded",
+        "description": "Modlist for Bannerlords 1.2.12 only. 
+        The goal of this modlist is to improve the roleplay part of the game and strengthen player immersion and feeling of being part of the world. 
+        /!\\ See the readme for all info : 
+        https://github.com/DaftHunk/daft_wabbajack/wiki/%5BFR%E2%80%90EN%5D-Banner-Kings-Expanded",
         "author": "Daft Hunk",
         "maintainers": [
             "github/DaftHunk"
